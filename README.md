@@ -17,15 +17,3 @@ Investigation write-ups from hands-on SOC training scenarios. Each folder contai
 
 ---
 
-## 🗂️ Structure
-
-Each report folder follows the same layout:
-
-```
-CLD-IR-XXXX-scenario-name/
-├── CLD-IR-XXXX-incident-report.pdf   # full report: timeline, findings, IOCs, ATT&CK mapping, actions, recommendations
-├── queries.kql                       # KQL queries used to investigate
-└── screenshots/                      # raw query results / evidence
-```
-
----
